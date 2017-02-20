@@ -37,7 +37,7 @@
 * 可通过该链接前往[我的Github](https://github.com/zhangcuiZC/My-FreeCodeCamp)或[我的freeCodeCamp习题集](https://freecodecamp.cn/zhangcuizc)查看。
 
 #### 我的作品集
-* 独立制作的单页Web应用，集合了我学习过程中积累的个人作品及收集的代码片段等；
+* 独立制作的类似单页Web应用，集合了我学习过程中积累的个人作品及收集的代码片段等；
 * 该网页主要使用Ajax思想及CSS3动画开发而成；
 * 可通过该链接查看[我的作品集](https://zhangcuizc.github.io/portfolio/)。
 
