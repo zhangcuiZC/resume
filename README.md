@@ -48,7 +48,7 @@
 
 #### 专业技能
 * 熟练使用HTML(5)/CSS(3)/JavaScript(Ajax、JSON)/jQuery/Photoshop，对Bootstrap有一定的了解；
-* 对JavaScript有浓厚兴趣并富有学习激情，目前正在坚持JavaScript的学习（已完成JavaScript DOM编程艺术/高级程序设计/权威指南的学习，正在阅读语言精粹并对已学习知识进行巩固，学习笔记记录在[我的博客](http://www.cnblogs.com/zczhangcui/)）；
+* 对JavaScript有浓厚兴趣并富有学习激情，熟练掌握闭包、继承、命名空间等基础知识；（已完成JavaScript DOM编程艺术/高级程序设计/权威指南的学习，正在阅读语言精粹并对已学习知识进行巩固，学习笔记记录在[我的博客](http://www.cnblogs.com/zczhangcui/)）
 * 正在关注前端模块化，了解NodeJS/Webpack/ES6并有一定的使用经验，正在进行重点学习。
 
 ## 自我评价及求职意向
